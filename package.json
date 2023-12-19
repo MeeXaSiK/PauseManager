@@ -1,0 +1,22 @@
+{
+    "name": "com.nighttraincode.pausemanager",
+    "author": 
+	{
+		"name": "Night Train Code",
+		"url": "https://www.youtube.com/@NightTrainCode/"
+	},
+    "displayName": "Pause Manager",
+    "description": "Pause manager for Unity",
+    "unity": "2020.3",
+    "version": "1.0.0",
+    "keywords": [
+        "pause",
+        "pausemanager",
+		"nighttraincode"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MeeXaSiK/PauseManager.git"
+    }
+}
